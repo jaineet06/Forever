@@ -16,7 +16,7 @@ const LatestCollection = () => {
         <div className="text-center py-8 text-3xl">
             <Title text1={"LATEST"} text2={"COLLECTIONS"}/>
             <p className="w-3/4 m-auto text-xs sm:text-sm md:text-base text-gray-600">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit officia impedit hic, amet provident quibusdam ea, optio distinctio quia, deleniti cum. Delectus eveniet quisquam earum minima ipsam nobis vitae porro!</p>
+            Forever Clothes brings you the latest in bold, high-quality fashion—where trend meets timeless style. From casual hangouts to big moments, we’ve got you covered with pieces that make a statement, every time.</p>
         </div>
 
         {/* Rendering Products */}

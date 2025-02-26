@@ -45,6 +45,8 @@ const ShopContextProvider = (props) => {
                         token
                     }
                 })
+
+                toast.success("Added to cart !!")
             } catch (error) {
                 console.log(error);
                 toast.error(error.message)
