@@ -74,7 +74,7 @@ npm install
 cd ../admin
 npm install
 ```
-### 4.  Create environment files
+### 5.  Create environment files
 #### server/.env
 ```bash
 MONGODB_URI = your_mongodb_connection_string
