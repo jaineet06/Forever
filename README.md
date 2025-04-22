@@ -4,6 +4,16 @@ Welcome to **Forever**, a fully functional and responsive e-commerce platform bu
 
 🚀 [Live Demo](https://forever-umber.vercel.app) | 📂 [GitHub Repository](https://github.com/jaineet06/Forever)
 
+## 📚 Tech Stack
+
+- **Frontend**: React, TailwindCSS
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Deployment**: Vercel
+
+---
+
+
 ## 🌟 Key Features
 
 ✅ **User Experience**:
@@ -36,15 +46,6 @@ Welcome to **Forever**, a fully functional and responsive e-commerce platform bu
 
 ### 🔐 Admin Panel - Dashboard
 ![Admin Panel](./screenshots/forever_admin1.png)
-
----
-
-## 📚 Tech Stack
-
-- **Frontend**: React, TailwindCSS
-- **Backend**: Node.js, Express
-- **Database**: MongoDB
-- **Deployment**: Vercel
 
 ---
 
